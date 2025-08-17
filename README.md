@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="WhatsApp Image 2025-08-17 at 15.31.07.jpeg" alt="Banner Profil GitHub">
+  <img src="WhatsApp Image 2025-08-17 at 15.31.07.jpeg" alt="Banner Profil GitHub" width="200" style="border-radius:50%;">
+</p>
+
   </p>
 
 <h1 align="center">Hi there, I'm AbduMuis 👋</h1>
