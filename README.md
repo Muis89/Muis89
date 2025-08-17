@@ -1,20 +1,18 @@
 <p align="center">
-  <img src="[URL_GAMBAR_BANNER_ANDA]" alt="Banner Profil GitHub">
+  <img src="WhatsApp Image 2025-08-17 at 15.31.07" alt="Banner Profil GitHub">
   </p>
 
 <h1 align="center">Hi there, I'm AbduMuis 👋</h1>
 <h3 align="center">A Passionate Web Developer from Bojonegara</h3>
 
 <p align="left">
-  🔭 I’m currently working on **[Nama Proyek Pribadi/Pekerjaan Anda]**
+  🌱 I’m currently learning Laravel and Next Js
   <br>
-  🌱 I’m currently learning **Next JS**
+  💬 Ask me about HTML,CSS,Javascript,Php,Laravel,Tailwind,Bootsrap
   <br>
-  💬 Ask me about **HTML,CSS,Javascript,Php,Laravel,Tailwind,Bootsrap**
+  📫 How to reach me: Mabsul4@gmail.com
   <br>
-  📫 How to reach me: **Mabsul4@gmail.com**
-  <br>
-  ⚡ Fun fact: **[Suka Olahraga (GYM) , Suka Senyum, Suka Makan]**
+  ⚡ Fun fact: [Suka Olahraga (GYM) , Suka Senyum, Suka Makan]
 </p>
 
 ---
@@ -36,18 +34,15 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
+</a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
