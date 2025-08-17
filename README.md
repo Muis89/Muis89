@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="WhatsApp Image 2025-08-17 at 15.31.07" alt="Banner Profil GitHub">
+  <img src="WhatsApp Image 2025-08-17 at 15.31.07.jpeg" alt="Banner Profil GitHub">
   </p>
 
 <h1 align="center">Hi there, I'm AbduMuis 👋</h1>
