@@ -14,13 +14,19 @@
   <br>
   📫 How to reach me: Mabsul4@gmail.com
   <br>
-  ⚡ Fun fact: [Suka Olahraga (GYM) , Suka Senyum, Suka Makan]
+  ⚡ Fun fact: Suka Olahraga (GYM) , Suka Senyum, Suka Makan
 </p>
 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
+</a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
@@ -39,12 +45,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -56,9 +56,9 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Muis89]&show_icons=true&locale=en&theme=tokyonight" alt="[Muis]'s GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muis89&show_icons=true&locale=en&theme=tokyonight" alt="[Muis]'s GitHub Stats" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[Muis89]&layout=compact&locale=en&theme=tokyonight" alt="[Muis]'s Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muis89&layout=compact&locale=en&theme=tokyonight" alt="[Muis]'s Top Languages" />
 </p>
 ---
 
