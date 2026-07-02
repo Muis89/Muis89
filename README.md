@@ -50,18 +50,8 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 </p>
-
 ---
-
-<h3 align="left">My GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muis89&show_icons=true&locale=en&theme=tokyonight" alt="Muis's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muis89&layout=compact&locale=en&theme=tokyonight" alt="Muis's Top Languages" />
-</p>
-
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://wa.me/6287873714410" target="_blank">
