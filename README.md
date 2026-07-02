@@ -61,4 +61,3 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muis's Instagram" height="30" width="40" />
   </a>
 </p>
-](https://github-readme-stats.vercel.app/api?username=Muis89)
