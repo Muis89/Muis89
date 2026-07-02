@@ -14,7 +14,7 @@
   <br>
   📫 How to reach me: Mabsul4@gmail.com
   <br>
-  ⚡ Fun fact: Suka Olahraga (GYM) , Suka Senyum, Suka Makan
+  ⚡ Fun fact: Suka Olahraga (GYM) , Suka Kamu, Suka Makan
 </p>
 
 ---
