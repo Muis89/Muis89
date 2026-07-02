@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="WhatsApp Image 2025-08-17 at 15.31.07.jpeg" alt="Banner Profil GitHub" width="200" style="border-radius:50%;">
 </p>
 
@@ -71,3 +71,4 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muis's Instagram" height="30" width="40" />
   </a>
 </p>
+](https://github-readme-stats.vercel.app/api?username=Muis89)
